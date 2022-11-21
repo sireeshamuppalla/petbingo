@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0759BA6E-C827-4700-B60C-8A0CB49F6833}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1b0e4b03-207f-42f8-9f41-bbd449d4a9bb" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripts/SubtractFractions.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Scripts/duckRightJump.cs" Line="31" Column="30" />
+      <File FileName="Assets/Scenes/Scripts/SubtractFractions.cs.meta" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Scripts/SubtractFractions.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PetBingo" expanded="True">
+            <Node name="Packages" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
