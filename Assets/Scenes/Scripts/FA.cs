@@ -33,7 +33,7 @@ public static class Extensions
 
 public class FA : MonoBehaviour
 {
-    //[SerializeField] List<AudioSource> gameSounds = new List<AudioSource>();
+    [SerializeField] List<AudioSource> gameSounds = new List<AudioSource>();
     public static string levelSelect;
     public static FA faInstance;
 
@@ -375,9 +375,8 @@ public class FA : MonoBehaviour
                 hardScore = hardScore + 1;
                 hardProblemCount += 1;
             }
-           
+
             //Play sound for correct answer
-            //Debug.Log(gameSounds[0]);
             //gameSounds[0].Play();
 
             //Change display image of button to rabbit image on top of button and make button not clickable
@@ -406,6 +405,7 @@ public class FA : MonoBehaviour
             {
                 hardProblemCount += 1;
             }
+
             //ResultList[currentButtonNumber - 1] = 00;
             //destroy button, make a sound and prevent corresponding fractions from displaying
             EventSystem.current.currentSelectedGameObject.SetActive(false); //UI button destroyed
