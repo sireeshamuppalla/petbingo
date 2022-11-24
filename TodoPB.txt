@@ -1,0 +1,17 @@
+To Do list for coding in the project:
+
+1.Saving the data of every student playing the game.
+2.Feeding Scene 
+  a. Adding a dropdown
+  b. Adding different fruit gifs
+  c. Reduce the number if the object is dragged once.
+3.Main Scene:
+  a. Audio for correct and wrong answers.
+4.Reportcard Scene:
+  a. Edit Player name
+  b. Delete player.
+  c. Reset player report.
+5.New player Scene:
+  a. Adding a new player to the list and display it on the screen.
+6.Connect to database. 
+ 

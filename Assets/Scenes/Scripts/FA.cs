@@ -2,15 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using System.Numerics;
 using System.Linq;
 using Fractions; //Nugget Package
 using UnityEngine.EventSystems;
-using System.Drawing;
-using System;
-using Unity.VisualScripting;
-using JetBrains.Annotations;
-using Unity.PlasticSCM.Editor.WebApi;
 using UnityEngine.SceneManagement;
 
 //This is an extension class that helps us create an extension method that allows us to shuffle a list 
